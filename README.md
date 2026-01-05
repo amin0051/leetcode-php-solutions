@@ -34,3 +34,7 @@
 docker compose up -d
 docker compose exec php php arrays/two-sum.php
 docker compose exec php php arrays/remove-duplicates.php
+
+3.## Longest Common Prefix
+Problem Link: https://leetcode.com/problems/longest-common-prefix/
+
